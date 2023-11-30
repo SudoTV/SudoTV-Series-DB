@@ -1,60 +1,30 @@
-identifier: what-to-play
+identifier: video-cover-generator
 repository:
   platform: GITHUB
   owner: SudoTVSeries
-  repository: Tutorial-What-To-Play
-forum-url: https://github.com/SudoTVSeries/Tutorial-What-To-Play/discussions
+  repository: Video-Cover-Generator
+forum-url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions
 original: true
-status: FINALE
+status: UPDATEING
 title:
-  zh-CN: 玩什么助手
-  en-US: What To Play
+  zh-CN: 视频封面生成器
+  en-US: Video Cover Generator
 description:
-  zh-CN: 用 React 开发的玩什么小助手
-  en-US: A React-based game picker
+  zh-CN: 用 React 开发的视频封面生成器
+  en-US: A React-based video cover generator
 episodes:
   1:
-    release-date: 2020-07-17
+    release-date: 2021-01-05
+    practice:
+      url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
     git:
-      before-tag: episode-0
-      after-tag: episode-1
-    videos:
-      zh-CN:
-        - platform: BILIBILI
-          identifier: BV195411h7bW
-      en-US:
-        - platform: BILIBILI
-          identifier: BV195411h7bW
-          locale: zh-CN
-    title:
-      zh-CN: 搭建环境，输入内容，调整样式！
-      en-US: Environment setup, input content, adjust style!
-  2:
-    release-date: 2020-07-19
-    git:
-      before-tag: episode-1
-      after-tag: episode-2
-    videos:
-      zh-CN:
-        - platform: BILIBILI
-          identifier: BV1NZ4y1g742
-      en-US:
-        - platform: BILIBILI
-          identifier: BV1NZ4y1g742
-          locale: zh-CN
-    title:
-      zh-CN: 下载代码，安装 Git.
-      en-US: Download code, install Git.
-  3:
-    release-date: 2020-07-21
-    git:
-      before-tag: episode-2
-      after-tag: episode-3
+      before-tag: before-episode-1
+      after-tag: after-episode-1
     videos:
       zh-CN:
         - platform: NOT_AVAILABLE
       en-US:
         - platform: NOT_AVAILABLE
     title:
-      zh-CN: 调用 API，显示游戏列表！
-      en-US: Call API, display game list!
+      zh-CN: 在 React 中控制 Canvas 的绘制
+      en-US: Drawing on Canvas in React
