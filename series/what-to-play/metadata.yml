@@ -20,10 +20,10 @@ episodes:
       after-tag: episode-1
     videos:
       zh-CN:
-        - platform: bilibili
+        - platform: BILIBILI
           identifier: BV195411h7bW
       en-US:
-        - platform: bilibili
+        - platform: BILIBILI
           identifier: BV195411h7bW
           locale: zh-CN
     title:
@@ -36,12 +36,25 @@ episodes:
       after-tag: episode-2
     videos:
       zh-CN:
-        - platform: bilibili
+        - platform: BILIBILI
           identifier: BV1NZ4y1g742
       en-US:
-        - platform: bilibili
+        - platform: BILIBILI
           identifier: BV1NZ4y1g742
           locale: zh-CN
     title:
       zh-CN: 下载代码，安装 Git.
       en-US: Download code, install Git.
+  3:
+    release-date: 2020-07-21
+    git:
+      before-tag: episode-2
+      after-tag: episode-3
+    videos:
+      zh-CN:
+        - platform: NOT_AVAILABLE
+      en-US:
+        - platform: NOT_AVAILABLE
+    title:
+      zh-CN: 调用 API，显示游戏列表！
+      en-US: Call API, display game list!
