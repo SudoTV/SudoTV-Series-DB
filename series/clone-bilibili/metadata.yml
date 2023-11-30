@@ -1,4 +1,5 @@
 identifier: clone-bilibili
+type: SOFTWARE_ENGINEERING
 repository:
   platform: GITHUB
   owner: SudoTVSeries

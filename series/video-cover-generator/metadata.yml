@@ -1,4 +1,5 @@
 identifier: video-cover-generator
+type: SOFTWARE_ENGINEERING
 repository:
   platform: GITHUB
   owner: SudoTVSeries

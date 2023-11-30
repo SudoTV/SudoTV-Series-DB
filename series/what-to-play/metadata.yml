@@ -1,4 +1,5 @@
 identifier: what-to-play
+type: SOFTWARE_ENGINEERING
 repository:
   platform: GITHUB
   owner: SudoTVSeries
