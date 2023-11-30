@@ -3,7 +3,8 @@ repository:
   platform: GITHUB
   owner: SudoTVSeries
   repository: Clone-BiliBili
-forum-url: https://github.com/SudoTVSeries/Clone-BiliBili/discussions
+forum:
+  url: https://github.com/SudoTVSeries/Clone-BiliBili/discussions
 original: true
 status: PAUSED
 title:
@@ -13,7 +14,7 @@ description:
   zh-CN: Clone BiliBili
   en-US: I watch clone BiliBili on BiliBili!
 episodes:
-  1:
+  - identifier: episode-1
     release-date: 2018-07-11
     practice:
       available: false

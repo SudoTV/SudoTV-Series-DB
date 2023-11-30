@@ -3,7 +3,8 @@ repository:
   platform: GITHUB
   owner: SudoTVSeries
   repository: Tutorial-What-To-Play
-forum-url: https://github.com/SudoTVSeries/Tutorial-What-To-Play/discussions
+forum:
+  url: https://github.com/SudoTVSeries/Tutorial-What-To-Play/discussions
 original: true
 status: FINALE
 title:
@@ -13,7 +14,7 @@ description:
   zh-CN: 用 React 开发的玩什么小助手
   en-US: A React-based game picker
 episodes:
-  1:
+  - identifier: "1"
     release-date: 2020-07-17
     practice:
       available: false
@@ -31,7 +32,7 @@ episodes:
     title:
       zh-CN: 搭建环境，输入内容，调整样式！
       en-US: Environment setup, input content, adjust style!
-  2:
+  - identifier: "2"
     release-date: 2020-07-19
     practice:
       available: false
@@ -49,7 +50,7 @@ episodes:
     title:
       zh-CN: 下载代码，安装 Git.
       en-US: Download code, install Git.
-  3:
+  - identifier: "3"
     release-date: 2020-07-21
     practice:
       available: false

@@ -3,7 +3,8 @@ repository:
   platform: GITHUB
   owner: SudoTVSeries
   repository: Video-Cover-Generator
-forum-url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions
+forum:
+  url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions
 original: true
 status: UPDATEING
 title:
@@ -13,13 +14,15 @@ description:
   zh-CN: Video Cover Generator
   en-US: A React-based video cover generator
 episodes:
-  1:
+  - identifier: "1"
     release-date: 2021-01-05
     practice:
       available: true
-      forum-url:
-        zh-CN: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
-        en-US: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
+      forum:
+        zh-CN:
+          url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
+        en-US:
+          url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
     git:
       before-tag: before-episode-1
       after-tag: after-episode-1
