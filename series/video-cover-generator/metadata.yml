@@ -16,7 +16,10 @@ episodes:
   1:
     release-date: 2021-01-05
     practice:
-      url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
+      available: true
+      url:
+        zh-CN: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
+        en-US: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
     git:
       before-tag: before-episode-1
       after-tag: after-episode-1

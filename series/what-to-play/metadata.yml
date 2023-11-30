@@ -15,6 +15,8 @@ description:
 episodes:
   1:
     release-date: 2020-07-17
+    practice:
+      available: false
     git:
       before-tag: episode-0
       after-tag: episode-1
@@ -31,6 +33,8 @@ episodes:
       en-US: Environment setup, input content, adjust style!
   2:
     release-date: 2020-07-19
+    practice:
+      available: false
     git:
       before-tag: episode-1
       after-tag: episode-2
@@ -47,6 +51,8 @@ episodes:
       en-US: Download code, install Git.
   3:
     release-date: 2020-07-21
+    practice:
+      available: false
     git:
       before-tag: episode-2
       after-tag: episode-3
