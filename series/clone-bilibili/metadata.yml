@@ -1,0 +1,31 @@
+identifier: clone-bilibili
+repository:
+  platform: GITHUB
+  owner: SudoTVSeries
+  repository: Clone-BiliBili
+forum-url: https://github.com/SudoTVSeries/Clone-BiliBili/discussions
+original: true
+status: PAUSED
+title:
+  zh-CN: 山寨 BiliBili
+  en-US: 我居然在B站看山寨B站！
+description:
+  zh-CN: Clone BiliBili
+  en-US: I watch clone BiliBili on BiliBili!
+episodes:
+  1:
+    release-date: 2018-07-11
+    git:
+      before-tag: before-episode-1
+      after-tag: after-episode-1
+    videos:
+      zh-CN:
+        - platform: BILIBILI
+          identifier: BV1os411n7Sf
+      en-US:
+        - platform: BILIBILI
+          identifier: BV1os411n7Sf
+          locale: zh-CN
+    title:
+      zh-CN: 网站是怎么做的
+      en-US: How websites made

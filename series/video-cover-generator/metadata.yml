@@ -8,9 +8,9 @@ original: true
 status: UPDATEING
 title:
   zh-CN: 视频封面生成器
-  en-US: Video Cover Generator
+  en-US: 用 React 开发的视频封面生成器
 description:
-  zh-CN: 用 React 开发的视频封面生成器
+  zh-CN: Video Cover Generator
   en-US: A React-based video cover generator
 episodes:
   1:
