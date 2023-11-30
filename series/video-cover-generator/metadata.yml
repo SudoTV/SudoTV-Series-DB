@@ -1,0 +1,60 @@
+identifier: what-to-play
+repository:
+  platform: GITHUB
+  owner: SudoTVSeries
+  repository: Tutorial-What-To-Play
+forum-url: https://github.com/SudoTVSeries/Tutorial-What-To-Play/discussions
+original: true
+status: FINALE
+title:
+  zh-CN: 玩什么助手
+  en-US: What To Play
+description:
+  zh-CN: 用 React 开发的玩什么小助手
+  en-US: A React-based game picker
+episodes:
+  1:
+    release-date: 2020-07-17
+    git:
+      before-tag: episode-0
+      after-tag: episode-1
+    videos:
+      zh-CN:
+        - platform: BILIBILI
+          identifier: BV195411h7bW
+      en-US:
+        - platform: BILIBILI
+          identifier: BV195411h7bW
+          locale: zh-CN
+    title:
+      zh-CN: 搭建环境，输入内容，调整样式！
+      en-US: Environment setup, input content, adjust style!
+  2:
+    release-date: 2020-07-19
+    git:
+      before-tag: episode-1
+      after-tag: episode-2
+    videos:
+      zh-CN:
+        - platform: BILIBILI
+          identifier: BV1NZ4y1g742
+      en-US:
+        - platform: BILIBILI
+          identifier: BV1NZ4y1g742
+          locale: zh-CN
+    title:
+      zh-CN: 下载代码，安装 Git.
+      en-US: Download code, install Git.
+  3:
+    release-date: 2020-07-21
+    git:
+      before-tag: episode-2
+      after-tag: episode-3
+    videos:
+      zh-CN:
+        - platform: NOT_AVAILABLE
+      en-US:
+        - platform: NOT_AVAILABLE
+    title:
+      zh-CN: 调用 API，显示游戏列表！
+      en-US: Call API, display game list!
