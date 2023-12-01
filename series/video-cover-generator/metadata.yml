@@ -19,7 +19,8 @@ episodes:
     type: CODING
     release-date: 2021-01-05
     practices:
-      - forum:
+      - identifier: "drawing-images-on-canvas"
+        forum:
           zh-CN:
             url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
           en-US:
