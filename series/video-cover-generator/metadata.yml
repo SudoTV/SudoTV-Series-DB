@@ -40,3 +40,6 @@ episodes:
     title:
       zh-CN: 在 React 中控制 Canvas 的绘制
       en-US: Drawing on Canvas in React
+    description:
+      zh-CN: 本期我们将在 React 中控制 Canvas 的绘制
+      en-US: In this episode, we will draw on Canvas in React

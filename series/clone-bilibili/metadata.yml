@@ -33,3 +33,6 @@ episodes:
     title:
       zh-CN: 网站是怎么做的
       en-US: How websites made
+    description:
+      zh-CN: 本期我们将学习如何使用 React 搭建网站
+      en-US: In this episode, we will learn how to use React to build a website
