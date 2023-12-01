@@ -10,15 +10,14 @@ original: true
 status: PAUSED
 title:
   zh-CN: 山寨 BiliBili
-  en-US: 我居然在B站看山寨B站！
+  en-US: Clone BiliBili
 description:
-  zh-CN: Clone BiliBili
+  zh-CN: 我居然在B站看山寨B站！
   en-US: I watch clone BiliBili on BiliBili!
 episodes:
   - identifier: episode-1
     release-date: 2018-07-11
-    practice:
-      available: false
+    practices: []
     git:
       before-tag: before-episode-1
       after-tag: after-episode-1
