@@ -16,6 +16,7 @@ description:
   en-US: A React-based game picker
 episodes:
   - identifier: "1"
+    type: CODING
     release-date: 2020-07-17
     practices: []
     git:
@@ -33,6 +34,7 @@ episodes:
       zh-CN: 搭建环境，输入内容，调整样式！
       en-US: Environment setup, input content, adjust style!
   - identifier: "2"
+    type: CODING
     release-date: 2020-07-19
     practices: []
     git:
@@ -50,6 +52,7 @@ episodes:
       zh-CN: 下载代码，安装 Git.
       en-US: Download code, install Git.
   - identifier: "3"
+    type: CODING
     release-date: 2020-07-29
     practices: []
     git:

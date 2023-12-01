@@ -16,6 +16,7 @@ description:
   en-US: A React-based video cover generator
 episodes:
   - identifier: "1"
+    type: CODING
     release-date: 2021-01-05
     practices:
       - forum:
