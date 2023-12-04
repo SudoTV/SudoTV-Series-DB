@@ -1,0 +1,29 @@
+identifier: gt-7-license-not-passable
+type: VIDEO_GAME_STREAMING
+status: PAUSED
+title:
+  zh-CN: 这 GT7 的驾照根本过不了啊
+  en-US: This GT7 license is not passable
+description:
+  zh-CN: 惊呆了，这也太难了
+  en-US: I'm shocked, this is too hard
+forum:
+  url: https://google.com
+game-name:
+  zh-CN: 跑车浪漫旅 7
+  en-US: Gran Turismo 7
+game-website:
+  url: https://google.com
+episodes:
+  - identifier: "single"
+    type: CONSOLE_GAMING
+    release-date: 2020-12-05
+    videos:
+      zh-CN: []
+      en-US: []
+    title:
+      zh-CN: 测试
+      en-US: Test
+    description:
+      zh-CN: 测试
+      en-US: Test
