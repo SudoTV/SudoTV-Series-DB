@@ -1,0 +1,48 @@
+identifier: url-shortener
+type: SOFTWARE_ENGINEERING
+repository:
+  platform: GITHUB
+  owner: SudoTVSeries
+  repository: Url-Shortener
+forum:
+  url: https://github.com/SudoTVSeries/Url-Shortener/discussions
+product:
+  url: https://u.sdtvs.win
+original: true
+status: UPDATING
+title:
+  zh-CN: 短链接生成器
+  en-US: URL Shortener
+description:
+  zh-CN: 用 Express 和 React 开发的短链接生成器
+  en-US: A URL shortener developed with Express and React
+episodes:
+  - identifier: "1"
+    type: CODING
+    release-date: 2023-12-04
+    practices:
+      - identifier: "identifier-details"
+        forum:
+          zh-CN:
+            url: https://github.com/SudoTVSeries/Url-Shortener/discussions/2
+          en-US:
+            url: https://github.com/SudoTVSeries/Url-Shortener/discussions/2
+        difficulty: INTERMEDIATE
+        title:
+          zh-CN: 显示短链接详情
+          en-US: Displaying URL details
+        description:
+          zh-CN: 创建一个页面，用于显示短链接的详情
+          en-US: Create a page to display the details of the URL
+    git:
+      before-tag: before-episode-1
+      after-tag: after-episode-1
+    videos:
+      zh-CN: []
+      en-US: []
+    title:
+      zh-CN: 用 Express 重定向请求
+      en-US: Redirecting requests with Express
+    description:
+      zh-CN: 本期我们将用 Express 重定向请求
+      en-US: In this episode, we will redirect requests with Express
