@@ -28,7 +28,7 @@ description:
 episodes:
   - identifier: "1"
     type: CODING
-    release-date: 2023-12-04
+    release-date: 2023-12-05
     practices:
       - identifier: "identifier-details"
         forum:
@@ -55,3 +55,19 @@ episodes:
     description:
       zh-CN: 本期我们将用 Express 重定向请求
       en-US: In this episode, we will redirect requests with Express
+  - identifier: "2"
+    type: CODING
+    release-date: 2023-12-10
+    practices: []
+    git:
+      before-tag: before-episode-1
+      after-tag: after-episode-1
+    videos:
+      zh-CN: []
+      en-US: []
+    title:
+      zh-CN: 在 NodeJS 链接和使用 SQL 数据库
+      en-US: Linking and using SQL databases in NodeJS
+    description:
+      zh-CN: 本期我们将安装，链接并使用 SQL 数据库储存配置好的短链接
+      en-US: In this episode, we will install, link and use SQL databases to store configured short links
