@@ -60,8 +60,8 @@ episodes:
     release-date: 2023-12-10
     practices: []
     git:
-      before-tag: before-episode-1
-      after-tag: after-episode-1
+      before-tag: before-episode-2
+      after-tag: after-episode-2
     videos:
       zh-CN: []
       en-US: []
