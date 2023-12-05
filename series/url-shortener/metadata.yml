@@ -6,8 +6,17 @@ repository:
   repository: Url-Shortener
 forum:
   url: https://github.com/SudoTVSeries/Url-Shortener/discussions
-product:
-  url: https://u.sdtvs.win
+products:
+  - identifier: url-shortener
+    type: WEBSITE
+    title:
+      zh-CN: 短链接生成器
+      en-US: The URL Shortener
+    description:
+      zh-CN: 我们开发的短链接生成器
+      en-US: The URL shortener we developed
+    link:
+      url: https://u.sdtvs.win
 original: true
 status: UPDATING
 title:

@@ -1,6 +1,7 @@
 identifier: gt-7-license-not-passable
 type: VIDEO_GAME_STREAMING
 status: PAUSED
+original: false
 title:
   zh-CN: 这 GT7 的驾照根本过不了啊
   en-US: This GT7 license is not passable
@@ -13,7 +14,7 @@ game-name:
   zh-CN: 跑车浪漫旅 7
   en-US: Gran Turismo 7
 game-website:
-  url: https://google.com
+  url: https://www.gran-turismo.com/us/
 episodes:
   - identifier: "single"
     type: CONSOLE_GAMING
