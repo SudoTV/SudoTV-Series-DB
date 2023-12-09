@@ -1,0 +1,18 @@
+identifier: kaomoji-center
+type: SOFTWARE_ENGINEERING
+repository:
+  platform: GITHUB
+  owner: SudoTVSeries
+  repository: Kaomoji-Center
+forum:
+  url: https://github.com/SudoTVSeries/Kaomoji-Center/discussions
+products: []
+original: true
+status: COMING_SOON
+title:
+  zh-CN: 颜文字小助手
+  en-US: Kaomoji Center
+description:
+  zh-CN: Electron 实现的颜文字小助手
+  en-US: An Electron-based kaomoji center
+episodes: []
