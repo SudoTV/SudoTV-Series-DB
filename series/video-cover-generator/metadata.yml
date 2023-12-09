@@ -8,40 +8,11 @@ forum:
   url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions
 products: []
 original: true
-status: UPDATING
+status: COMING_SOON
 title:
   zh-CN: 视频封面生成器
   en-US: Video Cover Generator
 description:
   zh-CN: 用 React 开发的视频封面生成器
   en-US: A React-based video cover generator
-episodes:
-  - identifier: "1"
-    type: CODING
-    release-date: 2021-01-05
-    practices:
-      - identifier: "drawing-images-on-canvas"
-        forum:
-          zh-CN:
-            url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
-          en-US:
-            url: https://github.com/SudoTVSeries/Video-Cover-Generator/discussions/2
-        difficulty: INTERMEDIATE
-        title:
-          zh-CN: 在 Canvas 中绘制图片
-          en-US: Drawing images on Canvas
-        description:
-          zh-CN: 尝试使用 API 在 Canvas 中绘制图片
-          en-US: Try to draw images on Canvas using API
-    git:
-      before-tag: before-episode-1
-      after-tag: after-episode-1
-    videos:
-      zh-CN: []
-      en-US: []
-    title:
-      zh-CN: 在 React 中控制 Canvas 的绘制
-      en-US: Drawing on Canvas in React
-    description:
-      zh-CN: 本期我们将在 React 中控制 Canvas 的绘制
-      en-US: In this episode, we will draw on Canvas in React
+episodes: []
