@@ -47,8 +47,13 @@ episodes:
       before-tag: before-episode-1
       after-tag: after-episode-1
     videos:
-      zh-CN: []
-      en-US: []
+      zh-CN:
+        - platform: BILIBILI
+          identifier: BV1FN4y1h7ZE
+      en-US:
+        - platform: BILIBILI
+          identifier: BV1FN4y1h7ZE
+          locale: zh-CN
     title:
       zh-CN: 用 Express 重定向请求
       en-US: Redirecting requests with Express
