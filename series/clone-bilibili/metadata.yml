@@ -17,6 +17,7 @@ description:
   en-US: I watch clone BiliBili on BiliBili!
 episodes:
   - identifier: episode-1
+    premiered: true
     type: CODING
     release-date: 2018-07-11
     practices: []

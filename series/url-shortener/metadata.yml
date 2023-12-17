@@ -27,6 +27,7 @@ description:
   en-US: A URL shortener developed with Express and React
 episodes:
   - identifier: "1"
+    premiered: true
     type: CODING
     release-date: 2023-12-05
     practices:
@@ -61,6 +62,7 @@ episodes:
       zh-CN: 本期我们将用 Express 重定向请求
       en-US: In this episode, we will redirect requests with Express
   - identifier: "2"
+    premiered: false
     type: CODING
     release-date: 2023-12-10
     practices: []

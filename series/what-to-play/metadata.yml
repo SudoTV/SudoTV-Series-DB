@@ -17,6 +17,7 @@ description:
   en-US: A React-based game picker
 episodes:
   - identifier: "1"
+    premiered: true
     type: CODING
     release-date: 2020-07-17
     practices: []
@@ -38,6 +39,7 @@ episodes:
       zh-CN: 本期我们将搭建 React 开发环境，输入内容，调整样式！
       en-US: In this episode, we will set up the React development environment, input content, and adjust the style!
   - identifier: "2"
+    premiered: true
     type: CODING
     release-date: 2020-07-19
     practices: []
@@ -59,6 +61,7 @@ episodes:
       zh-CN: 本期我们将下载代码，安装 Git.
       en-US: In this episode, we will download code, install Git.
   - identifier: "3"
+    premiered: false
     type: CODING
     release-date: 2020-07-29
     practices: []
